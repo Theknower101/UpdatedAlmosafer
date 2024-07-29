@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-29T14:52:28 EET" name="Default suite" finished-at="2024-07-29T14:52:54 EET" duration-ms="25780">
+    <groups>
+    </groups>
+    <test started-at="2024-07-29T14:52:28 EET" name="Default test" finished-at="2024-07-29T14:52:54 EET" duration-ms="25780">
+      <class name="MyTestCases">
+        <test-method is-config="true" signature="configuration()[pri:0, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:26 EET" name="configuration" finished-at="2024-07-29T14:52:28 EET" duration-ms="2002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuration -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:28 EET" name="setUp" finished-at="2024-07-29T14:52:30 EET" duration-ms="1742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="closeTheWindow()[pri:1, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:30 EET" name="closeTheWindow" finished-at="2024-07-29T14:52:31 EET" duration-ms="1532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheWindow -->
+        <test-method signature="checkTheLanguage()[pri:2, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:31 EET" name="checkTheLanguage" finished-at="2024-07-29T14:52:31 EET" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLanguage -->
+        <test-method signature="checkTheCurrency()[pri:3, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:31 EET" name="checkTheCurrency" finished-at="2024-07-29T14:52:31 EET" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheCurrency -->
+        <test-method signature="checkContactNumber()[pri:4, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:31 EET" name="checkContactNumber" finished-at="2024-07-29T14:52:31 EET" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContactNumber -->
+        <test-method signature="checkTheHotelsTabNotSelected()[pri:6, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:31 EET" name="checkTheHotelsTabNotSelected" finished-at="2024-07-29T14:52:31 EET" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheHotelsTabNotSelected -->
+        <test-method signature="checkTheDepartureFlight()[pri:7, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:31 EET" name="checkTheDepartureFlight" finished-at="2024-07-29T14:52:31 EET" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheDepartureFlight -->
+        <test-method signature="checkReturnFlight()[pri:8, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:31 EET" name="checkReturnFlight" finished-at="2024-07-29T14:52:31 EET" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkReturnFlight -->
+        <test-method signature="setTheLanguageRandomly()[pri:9, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:31 EET" name="setTheLanguageRandomly" finished-at="2024-07-29T14:52:32 EET" duration-ms="726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTheLanguageRandomly -->
+        <test-method signature="setLocationRandomly()[pri:10, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:32 EET" name="setLocationRandomly" finished-at="2024-07-29T14:52:32 EET" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLocationRandomly -->
+        <test-method signature="selectRoomSize()[pri:11, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:32 EET" name="selectRoomSize" finished-at="2024-07-29T14:52:36 EET" duration-ms="4158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRoomSize -->
+        <test-method signature="checkTheLoading()[pri:12, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:36 EET" name="checkTheLoading" finished-at="2024-07-29T14:52:52 EET" duration-ms="15927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLoading -->
+        <test-method signature="checkTheLowest()[pri:13, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:52 EET" name="checkTheLowest" finished-at="2024-07-29T14:52:54 EET" duration-ms="1124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheLowest -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:MyTestCases@1fa268de]" started-at="2024-07-29T14:52:54 EET" name="tear" finished-at="2024-07-29T14:52:54 EET" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
